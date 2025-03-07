@@ -30,6 +30,7 @@ A Laravel-based REST API for project management with dynamic attributes (EAV pat
     - php artisan key:generate
 
 3. **Configure Database in .env**
+    - import mysql db practical_assessment.sql present in root dir
     - DB_CONNECTION=mysql
     - DB_HOST=127.0.0.1
     - DB_PORT=3306
