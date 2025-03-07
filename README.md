@@ -39,7 +39,7 @@ A Laravel-based REST API for project management with dynamic attributes (EAV pat
 
 4. **Run Migrations and Seeders**
     - php artisan migrate --seed
-    - php artisan passport:install
+    - php artisan passport:keys
     - php artisan passport:client --personal
 
 5. **Run Server**
